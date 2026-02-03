@@ -37,10 +37,10 @@ This repository serves as a live demonstration of my documentation standards:
 ---
 
 ## 🌟"The Visual Edge"
-Unlike traditional technical writers, I apply my Graphics & Animation knowledge to eliminate cognitive load. I design **visual learning experiences** that:
+I apply my Graphics & Animation knowledge to eliminate cognitive load. I design visual learning experiences that:
 1. Reduce "Time-to-First-Commit" for new developers.
 2. Simplify complex distributed systems architecture.
-3. Are easy and comfortable to read. 
+3. **Are easy and comfortable to read.** 
 ---
 
 ## 📫 Let's Connect
