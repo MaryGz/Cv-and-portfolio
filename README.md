@@ -6,7 +6,7 @@ I am a Software Engineer turned Technical Writer with 4+ years of experience (ex
 ---
 
 ## 🚀 From Dev to Technical Writer
-There are few things as frustrating and unhelpful to a software dev than incomplete, confusing, or non-existing documentation. I discovered that this is a problem that enjoy solving. 
+There are few things as frustrating and unhelpful to a software dev than incomplete, confusing, or non-existing documentation. I discovered that **this is a problem that enjoy solving.** 
 My background as a Java/Python developer allows me to understand the "how" of software, while my passion for synthesis and visual design allows me to master the "why" and the "what." Also my experience trying to workl with decade-old documentation allows me to empathize with current developers. 
 
 - **Technical Roots:** 4+ years at Oracle & Texas Instruments.
