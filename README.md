@@ -1,10 +1,12 @@
 # Hi, I'm María Gutiérrez 👋
 ### Documentation Engineer | DX Specialist | Visual Technical Communicator
-
 I am a Software Engineer turned Technical Writer with 4+ years of experience bridging the gap between complex codebases and developer productivity. I specialize in Docs-as-Code, compliance automation, and visual knowledge architecture. Currently working @ Oracle.
+
 ---
+
 ## 🔴‼️ Are you a recruiter looking for examples of my work?
 First of all, thank you for stopping by! Unfortunately, my best work is in Oracle servers and I'm not allowed to share it outside. Hopefully these pages give you a good idea of my communication skills. Please enjoy!
+
 ---
 
 ## 🚀 Dev and Technical Writing
