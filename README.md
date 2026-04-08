@@ -5,11 +5,10 @@ I am a Software Engineer turned Technical Writer with 4+ years of experience bri
 
 ---
 
-## 🚀 From Dev to Technical Writer
-There are few things as frustrating and unhelpful to a software dev than incomplete, confusing, or non-existing documentation. I discovered that **this is a problem that enjoy solving.** 
-My background as a Java/Python developer allows me to understand the "how" of software, while my passion for synthesis and visual design allows me to master the "why" and the "what." Also my experience trying to workl with decade-old documentation allows me to empathize with current developers. 
+## 🚀 Dev and Technical Writing
+There are few things as frustrating and unhelpful to a software dev than incomplete, confusing, or non-existing documentation. I discovered that this is a problem that enjoy solving. Also my experience trying to work with decade-old documentation allows me to empathize with current developers. 
 
-- **Technical Roots:** 4+ years at Oracle & Texas Instruments.
+- **Technical Roots:** 6+ years at Oracle & Texas Instruments.
 - **Visual Strategy:** Graduate Diploma in Graphics & Animation applied to technical diagrams.
 - **Efficiency First:** Proven track record of reducing manual compliance tasks by 95%+.
 
@@ -36,7 +35,7 @@ This repository serves as a live demonstration of my documentation standards:
 
 ---
 
-## 🌟"The Visual Edge"
+## 🌟Let's Talk Graphics
 I apply my Graphics & Animation knowledge to eliminate cognitive load. I design visual learning experiences that:
 1. Reduce "Time-to-First-Commit" for new developers.
 2. Simplify complex distributed systems architecture.
