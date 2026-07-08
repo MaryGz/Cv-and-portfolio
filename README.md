@@ -35,5 +35,5 @@ Senior Software Engineer with 8+ years of experience in distributed systems and 
 * **Trained corporate end-users** on Point of Sale (POS) software workflows, system functionality, and troubleshooting protocols.
 
 ## EDUCATION
-**B.S. in Systems Engineering and Information Technology** Universidad Anáhuac | *2014 – 2018*
+* **B.S. in Systems Engineering and Information Technology** Universidad Anáhuac | *2014 – 2018*
 ---
